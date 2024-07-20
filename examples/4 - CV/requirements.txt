@@ -1,0 +1,14 @@
+djitellopy==1.5 #https://pypi.org/project/djitellopy/
+opencv-python==4.4.0.46
+
+pygame==2.0.1
+#numpy==1.26.0
+
+ultralytics==8.2.55
+
+kivy
+
+#python3.10 -m venv venv_dron #create the venv
+#source venv_dron/bin/activate #(linux)
+
+#pip install -r requirements.txt

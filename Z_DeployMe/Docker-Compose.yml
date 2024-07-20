@@ -1,0 +1,23 @@
+version: '3'
+
+services:
+  python-tellodji:
+    image: djitellopy
+    container_name: pydron
+    volumes:
+      - pydron:/app
+    working_dir: /app
+    # command: /bin/sh -c "\   
+    #   streamlit run Z_multichat.py"
+    command: tail -f /dev/null #keep it running      
+    ports:
+      - "8501:8501"
+
+volumes:
+  pydron:
+
+#docker build -t djitellopy .
+#docker build --no-cache -t djitellopy .
+
+##docker run -d -p 8501:8501 -v djitello:/app --name djitello djitellopy:latest /bin/sh -c "tail -f /dev/null"
+###docker exec -it djitello /bin/bash
