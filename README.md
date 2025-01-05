@@ -1,3 +1,19 @@
+Commented my learning at [This **blog post** →](https://jalcocert.github.io/JAlcocerT/dji-tello-python-programming/)
+
+
+> Forked from <https://github.com/damiafuentes/DJITelloPy>
+
+<div align="center">
+  <a href="https://GitHub.com/JAlcocerT/Streamlit-Multichat/graphs/commit-activity" style="margin-right: 5px;">
+    <img alt="Mantained" src="https://img.shields.io/badge/Maintained%3F-no-red.svg" />
+  </a>
+  <a href="https://www.python.org/downloads/release/python-3.9">
+    <img alt="Python Version" src="https://img.shields.io/badge/python-3.9-blue.svg" />
+  </a>
+</div>
+
+---
+
 # DJITelloPy
 ## [中文文档 (Chinese version of this readme)](README_CN.md)
 
